@@ -1,6 +1,7 @@
-![这是头图](cover.webp "cover")
+![这是头图](https://www.helloimg.com/i/2025/02/27/67c081e01baac.jpg "cover")
 
-<div align='center' ><font size='70'>我是404号真冬，你好，不好也行(ᗜ`‸´ᗜ )</font></div>
+
+<div align='center' ><h2>我是404号真冬，你好，不好也行(ᗜ`‸´ᗜ )<h2></div>
 
 *   鼹鼠是穴居动物，而我是恒温动物。
     
