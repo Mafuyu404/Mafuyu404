@@ -1,5 +1,6 @@
 ![这是头图](https://www.helloimg.com/i/2025/02/27/67c081e01baac.jpg "cover")
 
+<br />
 
 <div align='center' ><h2>我是404号真冬，你好，不好也行(ᗜ`‸´ᗜ )<h2></div>
 
@@ -14,5 +15,7 @@
 *   我偶尔会喝水，并因此写一些教程或文档。
     
 *   真冬永远不会喜欢你。
+
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mafuyu404)
