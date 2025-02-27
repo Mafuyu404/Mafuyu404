@@ -6,7 +6,7 @@
 
 *   鼹鼠是穴居动物，而我是恒温动物。
     
-*   JS很棒，就像在不渴的时候有水喝一样。
+*   JavaScript很棒，就像在不渴的时候有水喝一样。
     
 *   主流前端框架我最喜欢Svelte，因为我真的是恒温动物。
     
@@ -18,4 +18,4 @@
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mafuyu404)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mafuyu404&langs_count=3&size_weight=0.5&count_weight=0.5))
